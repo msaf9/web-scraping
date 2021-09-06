@@ -9,4 +9,4 @@
 
 ### Resources
 - Flipkart
-- [Products List](products.csv, "products.csv")
+- [Products List](https://github.com/msaf9/WebScraping/blob/master/products.csv, "products.csv")
