@@ -2,11 +2,15 @@
 Web scraping of product list from E-commerce website using Python.
 
 ## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Web Scraping](#web-scraping)
+  - [Table of contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Resources](#resources)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+  - [License](#license)
 
 ## Introduction
 Web scraping using Beautiful Soup and Request libraries.
