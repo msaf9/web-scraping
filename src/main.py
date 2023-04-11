@@ -12,7 +12,7 @@ page = client.read()
 client.close()
 html = soup(page, "html.parser")
 
-containers = html.findAll("div", {"class": "_1UoZlX"})
+containers = html.findAll("div", {"class": "_1YokD2 _3Mn1Gg"})
 # print(len(containers))
 
 container = containers[0]
@@ -25,7 +25,7 @@ ratings = container.findAll("div", {"class": "niH0FQ"})
 # print(ratings[0].text)
 
 # Files
-filename = "products.csv"
+filename = "../resources/products.csv"
 f = open(filename, "w")
 headers = "Product_name,Price,Ratings\n"
 f.write(headers)
