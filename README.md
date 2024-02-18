@@ -35,8 +35,8 @@ Web scraping using Beautiful Soup and Request libraries.
 ### Get repository
 
 ```git
-git clone https://github.com/msaf9/WebScraping.git
-cd WebScraping
+git clone https://github.com/msaf9/web-scraping.git
+cd web-scraping
 ```
 
 ## License
