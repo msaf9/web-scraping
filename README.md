@@ -1,12 +1,11 @@
 <h1> Web Scraping </h1>
 Web scraping of product list from E-commerce website using Python.
 
-## Table of contents
+<h2> Table of contents </h2>
 
-- [Table of contents](#table-of-contents)
 - [Introduction](#introduction)
   - [Resources](#resources)
-- [Technologies](#technologies)
+- [Technology Stack](#technology-stack)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -21,7 +20,7 @@ Web scraping using Beautiful Soup and Request libraries.
 - E-commerce platform: Flipkart
 - [Products List](https://github.com/msaf9/WebScraping/blob/master/products.csv 'products.csv')
 
-## Technologies
+## Technology Stack
 
 - Python
 - Beautiful Soup and Request libraries
